@@ -9,6 +9,7 @@ moveit_simple_controller_manager:
   ur3_manipulator_controller:
     type: FollowJointTrajectory
     action_ns: follow_joint_trajectory
+    default: true
     joints:
       - ur3_shoulder_pan_joint
       - ur3_shoulder_lift_joint

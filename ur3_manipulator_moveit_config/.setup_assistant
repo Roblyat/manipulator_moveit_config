@@ -1,13 +1,13 @@
 moveit_setup_assistant_config:
   urdf:
     package: ur_manipulator_description
-    relative_path: urdf/manipulator.urdf.xacro
+    relative_path: urdf/jazzy/manipulator.urdf.xacro
   srdf:
     relative_path: config/ur_manipulator.srdf
   package_settings:
-    author_name: Roblyat
+    author_name: Robylat
     author_email: ro@blyat.com
-    generated_timestamp: 1755256550
+    generated_timestamp: 1756340908
   control_xacro:
     command:
       - position

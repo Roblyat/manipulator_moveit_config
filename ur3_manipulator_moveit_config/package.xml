@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>ur_manipulator_moveit_config</name>
+  <name>ur3_manipulator_moveit_config</name>
   <version>0.3.0</version>
   <description>
      An automatically generated package with all the configuration and launch files for using the ur_manipulator with the MoveIt Motion Planning Framework
   </description>
-  <maintainer email="ro@blyat.com">Roblyat</maintainer>
+  <maintainer email="ro@blyat.com">Robylat</maintainer>
 
   <license>BSD-3-Clause</license>
 
@@ -14,7 +14,7 @@
   <url type="bugtracker">https://github.com/moveit/moveit2/issues</url>
   <url type="repository">https://github.com/moveit/moveit2</url>
 
-  <author email="ro@blyat.com">Roblyat</author>
+  <author email="ro@blyat.com">Robylat</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 

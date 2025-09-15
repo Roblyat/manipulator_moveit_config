@@ -1,2 +1,2 @@
 # ur_manipulator_moveit_config
-ur manipulator moveit config
+manipulator moveit config
